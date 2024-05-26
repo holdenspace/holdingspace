@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Slow & Present Living</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        header {
+            background-color: #e6e2d3;
+            color: #333;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 0 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            background-color: #e6e2d3;
+            color: #333;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        article {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #ccc;
+        }
+        article:last-child {
+            border-bottom: none;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Slow & Present Living</h1>
+        <p>Welcome to my wellness blog</p>
+    </header>
+    <div class="container">
+        <h2>About Me</h2>
+        <p>Hello, I'm [Your Name]. I'm passionate about embracing a slower pace of life and living more presently. Join me on this journey as we explore mindfulness, self-care, and intentional living.</p>
+        
+        <h2>Latest Articles</h2>
+        <article>
+            <h3>Intentional Gardening: Embracing Native Plants</h3>
+            <p>Discover the beauty and benefits of gardening with native plants. Learn how to create a sustainable garden that supports local ecosystems and enhances your connection to nature.</p>
+            <a href="#">Read More</a>
+        </article>
+        
+        <article>
+            <h3>Breath-Work for Recentering Yourself</h3>
+            <p>Explore simple yet powerful breath-work techniques to calm your mind, reduce stress, and find inner balance. Incorporate these practices into your daily routine for greater mindfulness and presence.</p>
+            <a href="#">Read More</a>
+        </article>
+        
+        <article>
+            <h3>Simple Magic Rituals to Cleanse and Protect</h3>
+            <p>Unlock the magic within everyday rituals. Discover how to cleanse and protect yourself and your home using simple yet effective magical practices. Bring positive energy and harmony into your life.</p>
+            <a href="#">Read More</a>
+        </article>
+        
+        <h2>Contact Me</h2>
+        <p>If you have any questions or just want to say hello, feel free to reach out to me at [your@email.com]. You can also connect with me on [social media platforms].</p>
+    </div>
+    <footer>
+        <p>&copy; 2024 Slow & Present Living</p>
+    </footer>
+</body>
+</html>
