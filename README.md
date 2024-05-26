@@ -24,8 +24,8 @@ If you're interested in contributing to holdingspace, we welcome guest writers a
 
 ## License
 
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+This project is licensed under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
 
 ---
 
-[Website](https://holdingspace.io) | [Twitter](https://twitter.com/holdingspace) | [Instagram](https://instagram.com/holdingspace)
+[Website](https://holdingspace.io) 
